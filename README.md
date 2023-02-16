@@ -1,5 +1,5 @@
 
-# Airfare Predictor
+# [Airfare Predictor](https://airfare-predictor-production.up.railway.app/)
 
 This code is a Flask web application that predicts airfare prices based on user inputs. The prediction is made using a pre-trained machine learning model, which is loaded using the pickle library when the application starts. The model was trained on features such as departure time, arrival time, duration, total number of stops, and airline.
 
